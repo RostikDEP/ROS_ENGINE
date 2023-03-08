@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/rostislav/GraphicalProgramming/ROS_ENGINE/external/glfw/include
+CXX_INCLUDES = -I/home/rostislav/GraphicalProgramming/ROS_ENGINE/external/glfw/include -I/home/rostislav/GraphicalProgramming/ROS_ENGINE/external/glad/include
 
 CXX_FLAGS = -g
 

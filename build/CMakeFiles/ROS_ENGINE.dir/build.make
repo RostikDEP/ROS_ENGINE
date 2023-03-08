@@ -93,6 +93,7 @@ ROS_ENGINE_EXTERNAL_OBJECTS =
 ROS_ENGINE: CMakeFiles/ROS_ENGINE.dir/src/main.cpp.o
 ROS_ENGINE: CMakeFiles/ROS_ENGINE.dir/build.make
 ROS_ENGINE: external/glfw/src/libglfw3.a
+ROS_ENGINE: external/glad/libglad.a
 ROS_ENGINE: /usr/lib/x86_64-linux-gnu/librt.a
 ROS_ENGINE: /usr/lib/x86_64-linux-gnu/libm.so
 ROS_ENGINE: CMakeFiles/ROS_ENGINE.dir/link.txt
